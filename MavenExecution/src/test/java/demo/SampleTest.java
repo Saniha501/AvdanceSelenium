@@ -1,7 +1,9 @@
 package demo;
 
 import org.testng.annotations.Test;
-//Modify
+//Modifying for pull
+
+//Modifying for push
 
 public class SampleTest {
 	
